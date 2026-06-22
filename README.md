@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on a Flower based catalogue website using React and Node.js.<br>👯 I’m looking to collaborate on open-source frontend components or UI/UX design systems.
+I’m currently working on further expanding my knowledge regarding technicalities and skills related to my liking.<br>
+I’m looking to collaborate on open-source frontend components or UI/UX design systems.<br>
+Visit my [Portfolio page](https://seandelacruz.com).
 
 
 ## 🌐 Socials:
