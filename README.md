@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on customer relations management.<br>👯 I’m currently collaborating on open source projects.<br>🌱 I’m currently learning IBM'S AI developer.<br>⚡ Visit my personal portfolio website @seandelacruz.com
+🔭 I’m currently working on customer relations management.<br>👯 I’m currently undergoing internship @FlyrankAI as Backend AI Engineer.<br>🌱 I’m currently solving python problems @Hackerrank.<br>⚡ Visit my personal portfolio website @seandelacruz.com
 
 
 ## 🌐 Socials:
