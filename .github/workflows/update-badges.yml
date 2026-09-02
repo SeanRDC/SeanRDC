@@ -1,0 +1,28 @@
+name: Update Badges
+
+on:
+  schedule:
+    # This runs automatically every day at 2:00 AM UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch: # Allows you to trigger the workflow manually from GitHub UI
+
+jobs:
+  update-badges:
+    name: Update README with Credly Badges
+    runs-on: ubuntu-latest
+    
+    # Required permission to allow the action to write/commit changes back to your README
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and Update Credly Badges
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: "sean-rhani-dela-cruz"
+          
+          # Optional configurations:
+          NUMBER_LAST_BADGES: 10
