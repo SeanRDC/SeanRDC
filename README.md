@@ -86,6 +86,7 @@
 # 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SeanRDC&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=SeanRDC&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
