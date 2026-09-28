@@ -85,8 +85,35 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SeanRDC&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=SeanRDC&theme=default&hide_border=true" alt="GitHub Stats" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=SeanRDC&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=SeanRDC&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    />
+    <img
+      src="https://github-readme-stats.shion.dev/api/top-langs/?username=SeanRDC&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+      alt="Top Languages"
+    />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=SeanRDC&theme=dark&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=SeanRDC&theme=default&hide_border=true"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=SeanRDC&theme=default&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </picture>
 </p>
 
 ---
