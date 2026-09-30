@@ -1,3 +1,9 @@
+<!-- Credits to Saviru/GitBanner for banner generation -->
+<p align="center">
+  <img src="SeanRDC-profile-banner" alt="Project Banner" width="100%">
+</p>
+
+
 # 💫 About Me
 - 🔭 **Current Focus:** Customer relations management
 - 👯 **Internship:** Backend AI Engineer @ [FlyrankAI](https://flyrank.ai)
