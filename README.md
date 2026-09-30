@@ -1,24 +1,19 @@
 <!-- Credits to Saviru/GitBanner for banner generation -->
 <p align="center">
-  <img src="SeanRDC-profile-banner" alt="Project Banner" width="100%">
+  <img src="SeanRDC-profile-banner.svg" alt="Project Banner" width="100%">
 </p>
 
 
 # 💫 About Me
-- 🔭 **Current Focus:** Customer relations management
-- 👯 **Internship:** Backend AI Engineer @ [FlyrankAI](https://flyrank.ai)
-- 🌱 **Practicing:** Python algorithm challenges @ [HackerRank](https://hackerrank.com)
-- ⚡ **Portfolio:** [seandelacruz.com](https://seandelacruz.com)
+21 year old Full-Stack Agentic Al Automation Developer based in the Philippines, pursuing my Bachelor's degree in Computer Science while interning as a Backend Al Engineer at Flyrank Al.
+A Python enthusiast, solving everyday coding challenges. Technical expertise backed by professional certifications in Google's UI/UX Design, IBM's Al Development, and n8n professional workflow automation.
 
----
-
-## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sean-rhani-dela-cruz-834573334)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/SEAN-RHANI-DELA-CRUZ)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SrJarin.DelaCruz)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:delacruzseanrhani@gmail.com)
 
----
+<br />
 
 # 💻 Tech Stack
 
@@ -87,7 +82,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
----
+<br />
 
 # 📊 GitHub Stats
 <p align="center">
@@ -122,9 +117,4 @@
   </picture>
 </p>
 
----
-
-## ☕ Support
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@SeanRhaniDelaCruz)
-
-<br>
+# Badges
