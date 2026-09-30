@@ -129,8 +129,6 @@ A Python enthusiast, solving everyday coding challenges. Technical expertise bac
 <a href="https://www.hackerrank.com/profile/delacruzseanrha1"><img src="python-badge.png" height="125" alt="HackerRank Python"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/delacruzseanrha1"><img src="30-days-badge.png" height="125" alt="HackerRank 30 Days"></a>&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/75dd7333-aeb1-4c17-b6d9-50381fd97ffa/public_url"><img src="prompt-badge.png" height="125" alt="Prompt Engineering"></a>&nbsp;&nbsp;
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/5T8W98M6JAL7"><img src="ux-design-badge.png" height="125" alt="Professional UX"></a>
-
-
-
-
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/5T8W98M6JAL7"><img src="ux-design-badge.png" height="125" alt="Professional UX"></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/62be9ccd-87c7-411b-9571-c2fb008b82e2/public_url"><img src="networks-badge.png" height="125" alt="Networks"></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/delacruzseanrha1"><img src="java-bronze.png" height="125" alt="Java Bronze"></a>
