@@ -12,7 +12,7 @@ A Python enthusiast, solving everyday coding challenges. Technical expertise bac
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/SEAN-RHANI-DELA-CRUZ)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SrJarin.DelaCruz)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:delacruzseanrhani@gmail.com)
-[![Credly](https://shields.io)](https://www.credly.com)
+[![Credly Badges](https://img.shields.io/badge/credly-badges-%23ff6a00?logo=credly)](https://www.credly.com/users/sean-rhani-dela-cruzhttps://www.credly.com/)
 
 <br />
 
