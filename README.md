@@ -119,5 +119,13 @@ A Python enthusiast, solving everyday coding challenges. Technical expertise bac
 
 # Badges
 
-<a href="https://www.credly.com/badges/a32aef09-4267-41e8-892a-8fb5a6238c41/public_url"><img src="ibm-badge.png" height="125" alt="IBM AI Developer">
+<a href="https://www.credly.com/badges/a32aef09-4267-41e8-892a-8fb5a6238c41/public_url"><img src="ibm-badge.png" height="125" alt="IBM AI Developer"></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/f3dc5570-ddce-4d44-ad75-1991a022975e/public_url"><img src="python-for-app-badge.png" height="125" alt="Python for GenAI"></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/fc553c4e-9b44-4a0a-9e12-82fc5d95e03e/public_url"><img src="genai-sofdev-badge.png" height="125" alt="GenAI"></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/0d523488-d764-42d8-b39c-5440fa8d41f0/public_url"><img src="python-essentials-2-badge.png" height="125" alt="Python Essentials 2"></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/fdf3598e-40e0-42d9-8862-0e55a862451f/public_url"><img src="java-essentials-2.png" height="125" alt="JavaScript Essentials"></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/f2f7952e-f5a4-48b4-b0d8-5ebc6a72403f/public_url"><img src="intro-modern.png" height="125" alt="Intro to Modern AI"></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/delacruzseanrha1"><img src="python-badge.png" height="125" alt="HackerRank Python"></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/delacruzseanrha1"><img src="30-days-badge.png" height="125" alt="HackerRank 30 Days"></a>
+
 
