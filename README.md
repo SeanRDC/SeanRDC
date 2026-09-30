@@ -12,6 +12,7 @@ A Python enthusiast, solving everyday coding challenges. Technical expertise bac
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/SEAN-RHANI-DELA-CRUZ)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SrJarin.DelaCruz)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:delacruzseanrhani@gmail.com)
+[![Credly](https://shields.io)](https://www.credly.com)
 
 <br />
 
@@ -117,7 +118,7 @@ A Python enthusiast, solving everyday coding challenges. Technical expertise bac
   </picture>
 </p>
 
-# Badges
+# 🎖️ Selected Badges
 
 <a href="https://www.credly.com/badges/a32aef09-4267-41e8-892a-8fb5a6238c41/public_url"><img src="ibm-badge.png" height="125" alt="IBM AI Developer"></a>&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/f3dc5570-ddce-4d44-ad75-1991a022975e/public_url"><img src="python-for-app-badge.png" height="125" alt="Python for GenAI"></a>&nbsp;&nbsp;
@@ -126,6 +127,10 @@ A Python enthusiast, solving everyday coding challenges. Technical expertise bac
 <a href="https://www.credly.com/badges/fdf3598e-40e0-42d9-8862-0e55a862451f/public_url"><img src="java-essentials-2.png" height="125" alt="JavaScript Essentials"></a>&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/f2f7952e-f5a4-48b4-b0d8-5ebc6a72403f/public_url"><img src="intro-modern.png" height="125" alt="Intro to Modern AI"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/delacruzseanrha1"><img src="python-badge.png" height="125" alt="HackerRank Python"></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/delacruzseanrha1"><img src="30-days-badge.png" height="125" alt="HackerRank 30 Days"></a>
+<a href="https://www.hackerrank.com/profile/delacruzseanrha1"><img src="30-days-badge.png" height="125" alt="HackerRank 30 Days"></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/75dd7333-aeb1-4c17-b6d9-50381fd97ffa/public_url"><img src="prompt-badge.png" height="125" alt="Prompt Engineering"></a>&nbsp;&nbsp;
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/5T8W98M6JAL7"><img src="ux-design-badge.png" height="125" alt="Professional UX"></a>
+
+
 
 
