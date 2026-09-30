@@ -118,3 +118,6 @@ A Python enthusiast, solving everyday coding challenges. Technical expertise bac
 </p>
 
 # Badges
+
+<a href="https://www.credly.com/badges/a32aef09-4267-41e8-892a-8fb5a6238c41/public_url"><img src="ibm-badge.png" height="25" alt="IBM AI Developer">
+
